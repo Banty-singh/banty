@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* height: 100px; */
+    /* width: 200px; */
+    background-color: black;
+}
+.welcome{
+    height: 40rem;
+    width: 40rem;
+    color: aliceblue;
+    border: 2px solid rgb(224, 17, 17);
+    /* background-color: black; */
+}
+.a2{
+    margin-left: 2.1rem;
+}
+.addressing{
+    margin-top: 2rem;
+}
+input{
+    height: 1.5rem;
+    width: 25rem;
+    border-radius: 0.5rem;
+}
+h3{
+    margin-top: 1rem;
+}
